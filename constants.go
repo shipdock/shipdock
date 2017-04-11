@@ -7,4 +7,5 @@ const (
   OWNER            = "com.docker.swarm.owner"
   
   ENABLE_ALLOC_VIP = "com.navercorp.shipdock.allocvip"
+  KVSTORE          = "com.navercorp.shipdock.kvstore"
 )
