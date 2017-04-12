@@ -12,4 +12,5 @@ const (
   ENV_KVSTORE          = "KVSTORE"
   ENV_CLUSTER          = "CLUSTER"
   ENV_RACK             = "RACK"
+  ENV_VIP_PATH         = "VIP_PATH"
 )
